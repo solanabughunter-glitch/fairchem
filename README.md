@@ -22,7 +22,7 @@
 
 </h4>
 
-# `fairchem` by the FAIR Chemistry team
+# `fairchem` by the FAIR Chemistry teamm
 
 `fairchem` is the [FAIR](https://ai.meta.com/research/) Chemistry's centralized repository of all its data, models,
 demos, and application efforts for materials science and quantum chemistry.
